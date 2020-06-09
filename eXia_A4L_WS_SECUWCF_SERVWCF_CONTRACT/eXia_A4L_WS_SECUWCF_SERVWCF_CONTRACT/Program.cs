@@ -36,4 +36,6 @@ namespace eXia_A4L_WS_SECUWCF_SERVWCF_CONTRACT
         public string user_token;
         [System.Runtime.Serialization.DataMember]
         public object[] data;
+    }
+}
 
